@@ -59,7 +59,7 @@ In CLion, you will want to go to File -> Settings (Windows) or CLion -> Preferen
 
 # Mantra
 * Work on the project. Add/modify files.
-    * When you add a file to the project, it will as if you want to add it to your repository. You can do this late as well, by right-clicking on the file name and choosing Git -> Add.
+    * When you add a file to the project, it will as if you want to add it to your repository. You can do this later as well, by right-clicking on the file name and choosing Git -> Add.
 * When you finish a task, commit it and push it to the repository:
     * Click on one of the modified files in the left pane.
     * Choose Git -> Commit.
